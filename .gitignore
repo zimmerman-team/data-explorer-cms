@@ -38,3 +38,7 @@ addons/
 *.sublime-workspace
 *.sublime-project
 license.lic
+
+# data-explorer-cms custom
+!/storage/content/*
+!/storage/data/content.sqlite
